@@ -1,0 +1,19 @@
+
+h1{
+    font-family: 'Arial';
+    color: black;
+    line-height: 40px;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-weight: bold;
+  }
+
+
+p {
+    font-size: 18px;
+    color:black;
+    margin-bottom: 15px;
+    padding-left: 20px;
+}
